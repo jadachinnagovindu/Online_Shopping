@@ -1,23 +1,22 @@
 import logo from './logo.svg';
 import './App.css';
+import { Route,BrowserRouter as Router,Routes } from 'react-router-dom';
+import CreateCustomer from './CreateCustomer';
+import GetCustomer from './GetCustomer';
+import EditCustomer from './EditCustomer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+      <h1>Welcome to  Our Shopping Application</h1>
+      <Router>
+        <Routes>
+          <Route path="/" element={<CreateCustomer />} />
+          <Route path="/get" element={<GetCustomer />} />
+          <Route path="/edit/:id" element={<EditCustomer />} />
+        </Routes>
+      </Router>
+
     </div>
   );
 }
