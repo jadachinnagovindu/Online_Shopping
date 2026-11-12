@@ -1,0 +1,19 @@
+2026-11-12 15:23:04.230: [INFO] CurrentProfilePath: C:\Projects_Spring\onlineshopping\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 15:23:04.230: [INFO] Profiles total count: 1
+2026-11-12 15:23:04.230: [INFO] Profile: name=Profile 1 path=C:\Projects_Spring\onlineshopping\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-11-12 15:23:04.230: [INFO] LastUsedProfileDir: C:\Projects_Spring\onlineshopping\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 15:23:04.230: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 15:23:04.230: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 15:23:04.230: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 15:23:04.230: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 15:23:09.566: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 15:23:20.934: [INFO] CurrentProfilePath: C:\Projects_Spring\onlineshopping\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 15:23:20.934: [INFO] Profiles total count: 1
+2026-11-12 15:23:20.935: [INFO] Profile: name=Profile 1 path=C:\Projects_Spring\onlineshopping\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T15:23:05.467Z
+2026-11-12 15:23:20.935: [INFO] LastUsedProfileDir: C:\Projects_Spring\onlineshopping\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-12 15:23:20.935: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Projects_Spring\onlineshopping\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-12T15:23:05.467Z
+2026-11-12 15:23:20.935: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 15:23:20.935: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 15:23:20.935: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 15:23:20.935: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 15:24:40.047: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
